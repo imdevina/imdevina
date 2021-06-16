@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imdevina
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning in RISE by BCG Digital Academy
-- 💞️ I’m looking to collaborate on any projects with real world use case
+- 🌱 I’m currently learning in RISE by BCG Digital Academy & Andrew Ng's ML Coursera
+- 💞️ I’m looking to collaborate on any projects with real world use case (especially if using ML)
 - 📫 How to reach me ...
 
 <!---
