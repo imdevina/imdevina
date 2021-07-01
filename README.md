@@ -2,9 +2,9 @@
 - 👀 I worked in biotech/neuroscience research in the past 6 years.
 - 🌱 I’m currently looking to pivot into data science by:
   1. Joining RISE by BCG Digital Academy
-2. Taking up online courses such as Andrew Ng's ML Coursera
-3. Build up my portfolio in Kaggle
-4. Try out Coding Competition (currently preparing for: codegoda.io)
+ 2. Taking up online courses such as Andrew Ng's ML Coursera
+ 3. Build up my portfolio in Kaggle
+ 4. Try out Coding Competition (currently preparing for: codegoda.io)
 - 💞️ In my free time, I enjoy playing with / video-documenting my 1-yo little girl, watching animes, or playing Dota2 with my husband. 
 -     Potential data projects that I might work on:
 -     1. Image Recognition/Classification: to recognize my baby's face in photos/video & categorize her emotions.
