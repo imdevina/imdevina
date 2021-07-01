@@ -11,6 +11,7 @@
   2. Anime Recommendation: so that I can have a watchlist that I would definitely enjoy.
   3. Dota2 Win Probability: based on the hero picks (I don't pay for Dota Plus XD).
 - Feel free to chat & discuss on potential collab! :)
+- https://www.linkedin.com/in/devina-wongso-204118a4/
 
 <!---
 imdevina/imdevina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
