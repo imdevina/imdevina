@@ -6,7 +6,7 @@
   3. Build up my portfolio in Kaggle
   4. Try out Coding Competition (attended codegoda.io)
 
-- https://www.linkedin.com/in/devina-wongso-204118a4/
+- https://www.linkedin.com/in/devina-wongso/
 
 <!---
 imdevina/imdevina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
