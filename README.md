@@ -1,4 +1,4 @@
-- 👋 Hi! @imdevina
+- 👋 Hi! I'm Devina from Singapore.
 - 👀 I worked in biotech/neuroscience research in the past 6 years.
 - 🌱 I’m currently looking to pivot into data science by:
   1. Joining RISE by BCG Digital Academy
