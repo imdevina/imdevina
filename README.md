@@ -4,7 +4,7 @@
   1. Joining RISE by BCG Digital Academy
   2. Taking up online courses such as Andrew Ng's ML Coursera
   3. Build up my portfolio in Kaggle
-  4. Try out Coding Competition (currently preparing for: codegoda.io)
+  4. Try out Coding Competition (attended codegoda.io)
 
 - https://www.linkedin.com/in/devina-wongso-204118a4/
 
